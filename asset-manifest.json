@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Food-explore-Website/static/css/main.9b8737e6.css",
-    "main.js": "/Food-explore-Website/static/js/main.0d029756.js",
-    "static/media/welcome.png": "/Food-explore-Website/static/media/welcome.723e52d36732126fa795.png",
-    "static/media/ambience.jpg": "/Food-explore-Website/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
-    "static/media/logos.png": "/Food-explore-Website/static/media/logos.1316ef50d84b10ee5041.png",
-    "static/media/DeliveryImg.png": "/Food-explore-Website/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
-    "index.html": "/Food-explore-Website/index.html",
-    "main.9b8737e6.css.map": "/Food-explore-Website/static/css/main.9b8737e6.css.map",
-    "main.0d029756.js.map": "/Food-explore-Website/static/js/main.0d029756.js.map"
+    "main.css": "/Food-Restro-Website/static/css/main.9b8737e6.css",
+    "main.js": "/Food-Restro-Website/static/js/main.42e7fb7f.js",
+    "static/media/welcome.png": "/Food-Restro-Website/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/Food-Restro-Website/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/logos.png": "/Food-Restro-Website/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/DeliveryImg.png": "/Food-Restro-Website/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/Food-Restro-Website/index.html",
+    "main.9b8737e6.css.map": "/Food-Restro-Website/static/css/main.9b8737e6.css.map",
+    "main.42e7fb7f.js.map": "/Food-Restro-Website/static/js/main.42e7fb7f.js.map"
   },
   "entrypoints": [
     "static/css/main.9b8737e6.css",
-    "static/js/main.0d029756.js"
+    "static/js/main.42e7fb7f.js"
   ]
 }
